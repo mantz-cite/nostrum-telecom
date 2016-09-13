@@ -3,3 +3,5 @@
 *.iml
 
 .sass-cache
+.idea
+/mobile company.pdf
